@@ -1,0 +1,80 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+  background-color: #ffcccc;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  padding: 10px;
+}
+
+p{
+  line-height: 1.6;
+  font-family: 'Old Standard TT', serif;
+  font-family: 'Satisfy', cursive;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: 'Old Standard TT', serif;
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+font-family: 'Old Standard TT', serif;
+}
+
+h3 {
+  font-family: 'Old Standard TT', serif;
+}
+
+ol {
+  font-family: 'Satisfy', cursive;
+  }
+
+ul {
+  font-family: 'Satisfy', cursive;
+}
+
+img {
+  max-width: 100%;
+}
+
+img.left{
+  float:left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+
+img.right{
+  float:right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.center{
+  display: block;
+  margin: 0 auto;
+
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
